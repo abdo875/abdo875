@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mostafa</h1>
 
-<table>
-<tr>
+<table style="width:100%; border-collapse: collapse; border: 0;">
+<tr style="border: 0;">
 
-<!-- LEFT SIDE (TEXT) -->
-<td width="60%" valign="top">
+<!-- LEFT SIDE -->
+<td style="
+    width:60%; 
+    vertical-align: top; 
+    padding-right: 20px; 
+    border-right: 2px solid white;  /* الخط الأبيض */
+    border-left: none; 
+    border-top: none; 
+    border-bottom: none;
+">
 
 <h3>AI Engineer crafting intelligent solutions — from Egypt to the world 🇪🇬🌍</h3>
 
@@ -23,16 +31,15 @@
 
 ### 📫 Contact  
 📧 **abdomostafa13571234@gmail.com**  
-📞 **+20 1110179537**  
+📞 **+20 1110179537**
 
 </td>
 
-<!-- RIGHT SIDE (IMAGE) -->
-<td width="40%" align="center">
+<!-- RIGHT SIDE -->
+<td style="width:40%; text-align:center; border: 0;">
   <img src="https://raw.githubusercontent.com/abdo875/abdo875/main/assets/header.gif"
-       alt="header"
        width="300"
-       style="border-radius: 10px;" />
+       style="border-radius:10px;" />
 </td>
 
 </tr>
